@@ -1,5 +1,4 @@
 <img width="1280" height="400" alt="banner" src="https://github.com/user-attachments/assets/d4fc1813-1a19-414b-93f1-0ec16562d558" />
-### Hi there 👋
  
 ![version](https://img.shields.io/badge/version-14.08.2026-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=SipofoY&color=blue)
