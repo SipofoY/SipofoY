@@ -1,4 +1,5 @@
-<img width="1920" height="1519" alt="rolex-learning-center" src="https://github.com/user-attachments/assets/99b6fd85-92b2-4e81-a7a7-89958cfb1b8e" />
+<img width="1280" height="400" alt="banner" src="https://github.com/user-attachments/assets/d4fc1813-1a19-414b-93f1-0ec16562d558" />
+
 ## Hi there 👋
 
 <!--
