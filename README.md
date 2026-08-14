@@ -11,7 +11,6 @@
 🌱 &nbsp;Interested in machine learning applied to neuroscience, biomedical signals and healthcare.\
 📄 &nbsp;More about my experience on [LinkedIn](https://www.linkedin.com/in/yann-s-255952243/).
 
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -31,11 +30,13 @@
 
 ### 🚀 &nbsp;Featured Projects
 
-- **[Multimodal Parkinson's Detection](https://github.com/SipofoY/REPO-NAME)** — Deep learning system fusing smartphone keystroke dynamics and voice spectrograms via an asymmetric cross-attention architecture, for early Parkinson's diagnosis. `PyTorch`
+- **[Multimodal Parkinson's Detection](https://github.com/SipofoY/REPO-NAME)** — Deep learning system fusing smartphone keystroke dynamics and voice spectrograms via an asymmetric cross-attention architecture, for early Parkinson's diagnosis (LiGHT Lab, EPFL/Harvard). `PyTorch`
+- **[Robust Journey Planning](https://github.com/SipofoY/REPO-NAME)** — Probabilistic public-transport route planner built on large-scale Swiss mobility data, developed for EPFL's Large-Scale Data Science course (COM-490). `Python` `Spark`
+- **[Grid Cell Path Integration](https://github.com/SipofoY/REPO-NAME)** — Continuous attractor network model of entorhinal grid cells: 1D ring attractor to 2D hexagonal lattice, velocity-driven path integration and boundary-condition analysis (NX-465, EPFL). `Python` `NumPy`
+- **[Genome-Wide Association Study (GWAS)](https://github.com/SipofoY/REPO-NAME)** — Full GWAS pipeline on 650k+ SNPs for coronary artery disease: quality control, PCA-based stratification correction, per-SNP logistic regression and genomic inflation diagnostics (λ ≈ 1.01). Applied Biostatistics, EPFL. `R`
 - **[Brain MRI Visualization Tool](https://github.com/SipofoY/REPO-NAME)** — Python tool for visualizing regional statistical results on brain surfaces and virtual slices from 2D/3D MRI data (CHUV, Lausanne University Hospital). `Python`
-- **[Prosthesis 3D Scanning](https://github.com/SipofoY/REPO-NAME)** — Software for 3D scanning of arm prostheses, built with N-Pulse, an EPFL student association for open-source biomedical technologies. `Python` `OpenCV`
 
 ### 📫 &nbsp;How to reach me
 
 <a href="https://www.linkedin.com/in/yann-s-255952243/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:kamegne.sipofo@epfl.ch"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="mailto:sipofo.yann@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
