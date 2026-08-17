@@ -32,7 +32,7 @@
 - **[Modern NLP Project](https://github.com/CS-552/project-m3-2025-embeddingavengers)** — Three-milestone NLP project building and evaluating a language model system, from data collection and preference alignment to final model deployment (CS-552, EPFL). `Python` `PyTorch` `Transformers`
 - **Robust Journey Planning** *(private repository)* — Probabilistic public-transport route planner built on large-scale Swiss mobility data, developed for EPFL's Large-Scale Data Science course (COM-490). `Python` `Spark`
 - **[Grid Cell Path Integration](https://github.com/SipofoY/NX465-Neuronal-Dynamics)** — Continuous attractor network model of entorhinal grid cells: 1D ring attractor to 2D hexagonal lattice, velocity-driven path integration and boundary-condition analysis (NX-465, EPFL). `Python` `NumPy`
-- **[Genome-Wide Association Study (GWAS)](https://github.com/SipofoY/REPO-NAME)** — Full GWAS pipeline on 650k+ SNPs for coronary artery disease: quality control, PCA-based stratification correction, per-SNP logistic regression and genomic inflation diagnostics (λ ≈ 1.01). Applied Biostatistics, EPFL. `R`
+- **[Genome-Wide Association Study (GWAS)](https://github.com/SipofoY/REPO-NAME](https://github.com/SipofoY/gwas-cad-analysis)** — Full GWAS pipeline on 650k+ SNPs for coronary artery disease: quality control, PCA-based stratification correction, per-SNP logistic regression and genomic inflation diagnostics (λ ≈ 1.01). Applied Biostatistics, EPFL. `R`
 
 
 ### 📫 &nbsp;How to reach me
