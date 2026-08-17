@@ -34,6 +34,8 @@
 - **[Grid Cell Path Integration](https://github.com/SipofoY/NX465-Neuronal-Dynamics)** — Continuous attractor network model of entorhinal grid cells: 1D ring attractor to 2D hexagonal lattice, velocity-driven path integration and boundary-condition analysis (NX-465, EPFL). `Python` `NumPy`
 - **[Genome-Wide Association Study (GWAS)](https://github.com/SipofoY/gwas-cad-analysis)** — Full GWAS pipeline on 650k+ SNPs for coronary artery disease: quality control, PCA-based stratification correction, per-SNP logistic regression and genomic inflation diagnostics (λ ≈ 1.01). Applied Biostatistics, EPFL. `R`
 - **[Neural Snacks — Binary Classification](https://github.com/SipofoY/project-1-neural-snacks)** — Imbalanced binary classification on BRFSS health survey data, comparing a from-scratch neural network, gradient boosting, logistic regression and linear SVM implementations (CS-433 Machine Learning, EPFL). `Python` `NumPy`
+- **[The Timeline of Humor](https://github.com/epfl-ada/ada-2025-project-data_dinosaur)** — NLP and LLM-based analysis of The New Yorker Cartoon Caption Contest (2016–2023): thematic shifts, gender heterogeneity in humor and correlation with major world events via Google Trends, presented as an [interactive data story](https://sipofoy.github.io/ada-2025-data-dinosaur-website/). Applied Data Analysis, EPFL. `Python` `NLP` `LLM` `Next.js`
+- **[Spotify Billboard Hot 100 Analysis](https://github.com/com-480-data-visualization/com-480-project-Certified-Lover-Data)** — Interactive data visualization project exploring trends in the Billboard Hot 100 and Spotify audio features. COM-480 Data Visualization, EPFL. `Python` `D3.js` `Jekyll`
 
 
 ### 📫 &nbsp;How to reach me
