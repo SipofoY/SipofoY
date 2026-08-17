@@ -1,6 +1,6 @@
 <img width="1280" height="400" alt="banner" src="https://github.com/user-attachments/assets/d4fc1813-1a19-414b-93f1-0ec16562d558" />
 
-![version](https://img.shields.io/badge/version-14.08.2026-informational) &nbsp;
+![version](https://img.shields.io/badge/version-17.08.2026-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=SipofoY&color=blue)
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -33,6 +33,7 @@
 - **Robust Journey Planning** *(private repository)* — Probabilistic public-transport route planner built on large-scale Swiss mobility data, developed for EPFL's Large-Scale Data Science course (COM-490). `Python` `Spark`
 - **[Grid Cell Path Integration](https://github.com/SipofoY/NX465-Neuronal-Dynamics)** — Continuous attractor network model of entorhinal grid cells: 1D ring attractor to 2D hexagonal lattice, velocity-driven path integration and boundary-condition analysis (NX-465, EPFL). `Python` `NumPy`
 - **[Genome-Wide Association Study (GWAS)](https://github.com/SipofoY/gwas-cad-analysis)** — Full GWAS pipeline on 650k+ SNPs for coronary artery disease: quality control, PCA-based stratification correction, per-SNP logistic regression and genomic inflation diagnostics (λ ≈ 1.01). Applied Biostatistics, EPFL. `R`
+- **[Neural Snacks — Binary Classification](https://github.com/SipofoY/project-1-neural-snacks)** — Imbalanced binary classification on BRFSS health survey data, comparing a from-scratch neural network, gradient boosting, logistic regression and linear SVM implementations (CS-433 Machine Learning, EPFL). `Python` `NumPy`
 
 
 ### 📫 &nbsp;How to reach me
