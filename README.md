@@ -1,4 +1,5 @@
-<img width="1280" height="400" alt="banner" src="https://github.com/user-attachments/assets/d4fc1813-1a19-414b-93f1-0ec16562d558" />
+<img width="1920" height="700" alt="IMG_3559" src="https://github.com/user-attachments/assets/82a1b24a-16dd-42c9-bf29-29b5df73c619" />
+
 
 ![version](https://img.shields.io/badge/version-17.08.2026-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=SipofoY&color=blue)
