@@ -1,4 +1,4 @@
-<img width="1920" height="700" alt="IMG_3559" src="https://github.com/user-attachments/assets/82a1b24a-16dd-42c9-bf29-29b5df73c619" />
+<img width="1920" height="550" alt="IMG_3559" src="https://github.com/user-attachments/assets/82a1b24a-16dd-42c9-bf29-29b5df73c619" />
 
 
 ![version](https://img.shields.io/badge/version-17.08.2026-informational) &nbsp;
