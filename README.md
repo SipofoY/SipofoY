@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;MSc student in **Neuro-X** with a minor in **Data Science** at [EPFL](https://www.epfl.ch/) (École Polytechnique Fédérale de Lausanne).\
-💻 &nbsp;Research experience in **multimodal deep learning** for medical diagnosis (EPFL/Harvard LiGHT Laboratory) and **physics-informed modeling** for nanoscale biosensors (Campus Biotech).\
+💻 &nbsp;Research experience in **multimodal deep learning** for medical diagnosis (EPFL/Harvard LiGHT Laboratory) and **machine learning model** for nanoscale biosensors (Campus Biotech).\
 🎓 &nbsp;BSc in Life Sciences Engineering, EPFL (2025).\
 🌱 &nbsp;Interested in machine learning applied to neuroscience, biomedical signals and healthcare.\
 📄 &nbsp;More about my experience on [LinkedIn](https://www.linkedin.com/in/yann-s-255952243/).
